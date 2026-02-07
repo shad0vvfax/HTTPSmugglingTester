@@ -1,4 +1,4 @@
-is_http_vuln.py /<arguments/>
+is_http_vuln.py \<arguments\>
 
 'url',  
 '-t', '--timeout', type=int, default=10,  
